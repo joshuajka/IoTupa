@@ -1,0 +1,13 @@
+<?php
+$dsn = "mysql:host=localhost;dbname=temponocampus;charset=utf8";
+$usuario = "user";
+$senha = "senha"; 
+
+try{
+$PDO = new PDO($dsn,$usuario,$senha);
+echo "<h1>Conectado com sucesso</h1>";
+
+}catch(PDOException $erro){
+echo "Erro ao conectar";
+}
+?>
