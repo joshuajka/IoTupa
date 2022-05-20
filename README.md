@@ -1,5 +1,5 @@
 # IoTupa 
 
-<h1>Resumo</h1>
+<h2>Resumo</h2>
 <p>A diferença meteorológica entre centros urbanos e regiões periféricas é algo recorrente. Em particular, esta situação acontece, por exemplo, ao comparar o campus samambaia e outras regiões da cidade, quando uma pode estar ensolarada e a outra com chuva.  O objetivo principal deste trabalho foi a elaboração de uma estação meteorológica constituída de materiais de baixo custo que fornecesse as aferições de seus sensores em tempo real em uma plataforma web de acesso livre, de maneira que pudesse informar aos usuários como está o tempo no campus Samambaia da Universidade Federal de Goiás no momento do acesso. O intuito deste trabalho foi criar uma solução no contexto de cidades inteligentes e internet das coisas. O projeto foi desenvolvido com base na plataforma Arduino acoplando a ela sensores que medem variáveis meteorológicas, com termômetro, higrômetro e sensor de chuva.  A estação possui conexão à internet e a um banco de dados onde os registros são armazenados. Como resultado, tem-se a elaboração e entrega de um protótipo componente de software inovador baseado em aplicação IoT para percepção em tempo real de condições meteorológicas no ambiente onde está instalado.</p>
 
